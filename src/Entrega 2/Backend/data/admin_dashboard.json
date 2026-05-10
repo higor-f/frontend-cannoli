@@ -1,0 +1,2193 @@
+{
+  "atualizadoEm": "2026-05-09T20:49:46.438194",
+  "perfil": "admin",
+  "filtrosAplicados": {
+    "periodo": "todos",
+    "empresa": "99792B54-3864-420B-A5Df-354Ff67Ca28D",
+    "canal": "todos",
+    "tipoPedido": "todos"
+  },
+  "filtros": {
+    "periodos": [
+      "2025-02",
+      "2025-03",
+      "2025-04",
+      "2025-05",
+      "2025-06",
+      "2025-07",
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-05"
+    ],
+    "empresas": [
+      {
+        "id": "F28B08C9-2101-48A5-A27F-2585F2Bf6823",
+        "nome": "A Rainha Do Frango"
+      },
+      {
+        "id": "13B738E0-614F-4Fe2-9982-6D88867Bfa5A",
+        "nome": "Agustina Restaurante E Empório"
+      },
+      {
+        "id": "A6A267A8-E71B-4935-Ac9F-B778Eb739Fd4",
+        "nome": "Anderson Camargo"
+      },
+      {
+        "id": "42C3B4Ba-0F3B-457A-8F36-5Cc42Dedf94C",
+        "nome": "Atelier Doce Amor"
+      },
+      {
+        "id": "1E31B67E-621C-4915-9Fb2-67B918F3D6D6",
+        "nome": "Austrália Hamburgueria Artesanal"
+      },
+      {
+        "id": "D0B78249-59B8-4C16-B40C-B084B8Aa371E",
+        "nome": "Açaí Dugoiás"
+      },
+      {
+        "id": "99792B54-3864-420B-A5Df-354Ff67Ca28D",
+        "nome": "Bode Dú Burger"
+      },
+      {
+        "id": "9E69D92E-Fff3-4500-B77A-C429Cc312Da5",
+        "nome": "Bolos Miraculosos"
+      },
+      {
+        "id": "8Eccb620-5990-433F-8C9B-D77D0F1Da591",
+        "nome": "Burguer For You"
+      },
+      {
+        "id": "483Af9D2-7C76-4B9B-Ae0F-81Ef7F021568",
+        "nome": "Caldo Bom Do Mateus"
+      },
+      {
+        "id": "3F0Dba5F-C1F2-4C74-B8B4-318Eff71031C",
+        "nome": "Cannoli Food Cashback"
+      },
+      {
+        "id": "6A086D6C-89F1-404D-98D8-1D2F3559E7B2",
+        "nome": "Cannoli Food Cashback Ii"
+      },
+      {
+        "id": "1092E75C-Afb5-4992-869A-8D15C195A7C2",
+        "nome": "Cannoli Food Cashback Iii"
+      },
+      {
+        "id": "1167E267-F93C-47Bb-9807-79387Acdacfd",
+        "nome": "Cannoli Food Datamaxi"
+      },
+      {
+        "id": "C979E8B2-8Ff6-4Ddf-Bb83-0218348A7C3B",
+        "nome": "Casa Da Esfiha - Guarulhos"
+      },
+      {
+        "id": "0C02619D-0C57-492D-9660-Dd0F357A2F0C",
+        "nome": "Casa Da Esfiha Jardim Japão"
+      },
+      {
+        "id": "B6Bc362F-Cb27-44Ac-A9C8-5E9B08263F86",
+        "nome": "Casa Da Esfiha Vila Gustavo Ltda"
+      },
+      {
+        "id": "0D756Ccf-7F47-4D8D-A2Fb-Aa78226A401D",
+        "nome": "Casa Da Mae Joana Pizzaria Ltda"
+      },
+      {
+        "id": "C752E0Af-D9D0-4F2E-A4B9-1D94B4F58493",
+        "nome": "Central Das Esfihas - Cangaíba"
+      },
+      {
+        "id": "2Fdc6149-Fbf3-442D-88Fe-C8375A86266D",
+        "nome": "Cerrado Imóveis"
+      },
+      {
+        "id": "1207Abf9-C860-40Dd-A053-484539E76005",
+        "nome": "Codgox"
+      },
+      {
+        "id": "17A0899A-73Bd-4Af5-8082-0Eb551650F26",
+        "nome": "Delivery Do Salesio"
+      },
+      {
+        "id": "4Ba8925F-94Ab-4Bed-97B7-B07A22B6D31F",
+        "nome": "Demonstração"
+      },
+      {
+        "id": "3Da392C6-86E3-4847-8A04-0Cdae0E501F9",
+        "nome": "Dona Baunilha"
+      },
+      {
+        "id": "069768C1-6Fdd-4833-939E-Ea9F51A7Dff9",
+        "nome": "Elvi Cozinhas Profissional"
+      },
+      {
+        "id": "97674906-E4Bb-47Cf-9D9E-4Ebd7F4Ee919",
+        "nome": "Empresa Teste"
+      },
+      {
+        "id": "5818Afa9-3322-45A6-Bc5B-5D19E6Ea1F25",
+        "nome": "Filipa Empório E Restaurante"
+      },
+      {
+        "id": "1Af0098B-1276-47Db-95E5-8Ef8D43878B5",
+        "nome": "Food Service"
+      },
+      {
+        "id": "6E240E72-2948-443E-Bf4A-23243C0721D0",
+        "nome": "Giralda Doceria"
+      },
+      {
+        "id": "8C4E96A9-A7B8-4B4C-A891-F600C9Eceee5",
+        "nome": "Gran Royalle"
+      },
+      {
+        "id": "74358477-B282-482A-Ab5A-69Dea060Fc35",
+        "nome": "Jbbl Choperia"
+      },
+      {
+        "id": "5325Fbf9-22E9-4C68-8E42-8C740E9Eec32",
+        "nome": "La Brunet Paes E Doces Pedro Doll Ltda"
+      },
+      {
+        "id": "5F30B411-Fad3-437C-88B4-Ca78C96A13E7",
+        "nome": "Leo'S Pizzas"
+      },
+      {
+        "id": "260231Be-A964-48Bb-Bf2E-A0C3A0Dbeca4",
+        "nome": "Lf - Cambe - Outlet Center"
+      },
+      {
+        "id": "92E0B17F-C94B-445A-A36E-207220Bf3E08",
+        "nome": "Lf - Cpg - Norte Sul Plaza"
+      },
+      {
+        "id": "794C6C63-Da08-42A6-8Efb-205595089B8C",
+        "nome": "Lf - Ppb - Prudenshopping"
+      },
+      {
+        "id": "4F22F901-8089-4555-B131-Adb9B724A343",
+        "nome": "Lf - Sbc - Atacadao Centro"
+      },
+      {
+        "id": "9Df6847D-7296-4A38-92E9-0Ef12Fed73Eb",
+        "nome": "Lf - Umuarama - Av Parana"
+      },
+      {
+        "id": "9698049A-9F42-42E5-Afe4-6566C3Bbea07",
+        "nome": "Loja Do Samuel"
+      },
+      {
+        "id": "B70F7Bdc-3543-459B-9312-6A108Aa3F117",
+        "nome": "Loja Modelo"
+      },
+      {
+        "id": "6Dad43B9-E9E2-4318-94D8-800Ece3Fdea2",
+        "nome": "Lp - Maringa - Willie Davids"
+      },
+      {
+        "id": "B420E889-0A10-4A3D-Bc0B-12Ae5B50D84E",
+        "nome": "Lp - Mgf - Maringá Park"
+      },
+      {
+        "id": "Fd5Bc963-Ff69-40C4-B5D8-1709E233Fe02",
+        "nome": "Machado & Rodrigues Food Ltda"
+      },
+      {
+        "id": "39946E25-8Ac3-43A4-8010-C883D2E0C637",
+        "nome": "Maná Burger"
+      },
+      {
+        "id": "Aefd1124-D1D3-40A6-9B06-7F74Bfa58Fba",
+        "nome": "Marinara Pizzaria & Restaurante"
+      },
+      {
+        "id": "8Cc52834-D064-4C6A-8E08-8F33D4811872",
+        "nome": "Mordidela Balsas"
+      },
+      {
+        "id": "6E59Cea6-7A9F-43C1-A72E-67915A8F1B1C",
+        "nome": "Nicolas Franco Monteiro"
+      },
+      {
+        "id": "573Da7Db-86Cb-41Ce-8Eab-990Fc4D25Dbd",
+        "nome": "Nutreon Labs"
+      },
+      {
+        "id": "01Ac4Ec3-F7E0-451D-Ab31-2Db1799816Ca",
+        "nome": "Padaria Century"
+      },
+      {
+        "id": "F7A936Fb-644A-436B-8907-7846B067865E",
+        "nome": "Padaria Maria Amália"
+      },
+      {
+        "id": "106Cd2Af-2375-40D3-Ab22-0172926F95F6",
+        "nome": "Padaria Silvana"
+      },
+      {
+        "id": "392C030B-95A1-42C9-B08C-C9C64Eed1246",
+        "nome": "Padaria Villa Real"
+      },
+      {
+        "id": "1Fcd01E3-2Dba-4Af8-Ae58-C39060F3E575",
+        "nome": "Padaria Vitória Régia"
+      },
+      {
+        "id": "4Bb014Bb-8B1D-489A-Aded-2060F3Fda27E",
+        "nome": "Pizza B"
+      },
+      {
+        "id": "2F89Fa97-27Cb-424C-A55C-31A8D4019551",
+        "nome": "Pizzaria Do Patrao"
+      },
+      {
+        "id": "45A5Cbf8-Bd4F-464A-B0E7-A03E0Ada659F",
+        "nome": "Pizzaria Valentina"
+      },
+      {
+        "id": "0C9B05F1-4F62-4513-A8E9-30964E1A5E4E",
+        "nome": "Polpanorte - Balneario Shopping"
+      },
+      {
+        "id": "1Fc00824-25Fd-4D94-Ad69-5B95Cb468A43",
+        "nome": "Polpanorte - Caceres"
+      },
+      {
+        "id": "A8Ad2209-4A89-4802-8Bf1-E30F999A3982",
+        "nome": "Polpanorte - Campo Grande"
+      },
+      {
+        "id": "9Fbcb539-D291-43E2-A1B7-6E864C230B2D",
+        "nome": "Polpanorte - Goiania"
+      },
+      {
+        "id": "0100729C-1Bce-4809-96B7-896Eb9Dbe599",
+        "nome": "Polpanorte - Horto"
+      },
+      {
+        "id": "1D376C83-8D4C-4273-Bb83-E0B7A7080041",
+        "nome": "Polpanorte - Londrina"
+      },
+      {
+        "id": "0F8A86Cb-Dd5B-4Edd-8558-Be543B1620B1",
+        "nome": "Polpanorte - P9 Arvores"
+      },
+      {
+        "id": "Dfdeb26D-2695-40Fc-A518-57Bf4Aa4E81C",
+        "nome": "Polpanorte - Pacubra"
+      },
+      {
+        "id": "86256660-0078-49C2-88D6-E0Bf52Be1A5B",
+        "nome": "Polpanorte - Parquinho"
+      },
+      {
+        "id": "E67A239E-9524-4865-B644-8Dd0Bddd2Bb1",
+        "nome": "Polpanorte - Quadras"
+      },
+      {
+        "id": "Ad90C57D-5C1D-4C39-A749-9Bd728F2C772",
+        "nome": "Polpanorte - Shopping Ibirapuera"
+      },
+      {
+        "id": "6F70Cd42-25Eb-4F6B-994D-A134156F70Fe",
+        "nome": "Polpanorte - São José Dos Pinhais"
+      },
+      {
+        "id": "2D5C651A-B787-41A5-8A82-Bd7Bf844B64B",
+        "nome": "Ponto Da Esfiha - Cachoeirinha"
+      },
+      {
+        "id": "1Caf86A9-Bab9-42B1-8A47-7A3F9E24F805",
+        "nome": "Ponto Da Esfiha - Itapecerica Da Serra"
+      },
+      {
+        "id": "0D860437-8F2F-4437-A866-811Bd07Ac367",
+        "nome": "Sai Burguer"
+      },
+      {
+        "id": "45F9Fac9-7A83-4Da2-9011-39816A4Bf0A8",
+        "nome": "Sorvetes Italia"
+      },
+      {
+        "id": "8B04A4D8-A0E4-4F9C-9272-5250326A10Af",
+        "nome": "São João Da Penha"
+      },
+      {
+        "id": "Dbac911D-086E-4612-8Fac-Db980D0F7A63",
+        "nome": "São João Vilela"
+      },
+      {
+        "id": "125764B3-4916-4326-9C6B-D1F7B2Ffdc57",
+        "nome": "Trailer Do Pops - F J Melo Junior"
+      },
+      {
+        "id": "21E1A735-Bfd6-40B6-Bbe1-35889F94Fadb",
+        "nome": "Veneto Pizzaria"
+      },
+      {
+        "id": "9B4Bf8Bf-2F5C-4680-Afe1-8014B371D518",
+        "nome": "Vida Leve"
+      }
+    ],
+    "canais": [
+      "Anotaai",
+      "Cannoli",
+      "Cannoli-Tab",
+      "Cardapioweb",
+      "Datamaxi",
+      "Epadoca",
+      "Ifood",
+      "Pos",
+      "Posdevice",
+      "Whatsapp",
+      "app",
+      "balcao",
+      "delivery_proprio"
+    ],
+    "tiposPedido": [
+      "Delivery",
+      "Indoor",
+      "Takeout",
+      "delivery",
+      "takeout"
+    ]
+  },
+  "kpis": {
+    "receitaTotal": 295628.03,
+    "totalPedidos": 5238,
+    "ticketMedio": 56.44,
+    "totalEmpresas": 77,
+    "totalClientes": 160710,
+    "clientesAtivos": 33,
+    "clientesInativos": 2442,
+    "clientesRecorrentes": 722,
+    "clientesOcasionais": 1753,
+    "clientesSemPedido": 158235,
+    "taxaRecorrencia": 29.17,
+    "descontosTotal": 17971.06,
+    "taxaDescontoMedia": 6.25,
+    "crescimentoReceita": 6622.77,
+    "crescimentoPedidos": 3800.0,
+    "totalCampanhas": 56461,
+    "receitaCampanhas": 103603.21
+  },
+  "crescimento": {
+    "receita": 6622.77,
+    "pedidos": 3800.0,
+    "statusReceita": "saudavel",
+    "statusPedidos": "saudavel"
+  },
+  "segmentacaoClientes": {
+    "ativos": 33,
+    "inativos": 2442,
+    "recorrentes": 722,
+    "ocasionais": 1753,
+    "semPedido": 158235,
+    "comPedido": 2475,
+    "taxaRecorrencia": 29.17
+  },
+  "graficos": {
+    "receitaPorMes": [
+      {
+        "periodo": "2025-05",
+        "receita": 3225.0,
+        "crescimento": 0.0
+      },
+      {
+        "periodo": "2025-06",
+        "receita": 29005.0,
+        "crescimento": 799.38
+      },
+      {
+        "periodo": "2025-07",
+        "receita": 29013.4,
+        "crescimento": 0.03
+      },
+      {
+        "periodo": "2025-08",
+        "receita": 29352.28,
+        "crescimento": 1.17
+      },
+      {
+        "periodo": "2025-09",
+        "receita": 26323.99,
+        "crescimento": -10.32
+      },
+      {
+        "periodo": "2025-10",
+        "receita": 31878.12,
+        "crescimento": 21.1
+      },
+      {
+        "periodo": "2025-11",
+        "receita": 45916.18,
+        "crescimento": 44.04
+      },
+      {
+        "periodo": "2025-12",
+        "receita": 38642.06,
+        "crescimento": -15.84
+      },
+      {
+        "periodo": "2026-01",
+        "receita": 57905.43,
+        "crescimento": 49.85
+      },
+      {
+        "periodo": "2026-02",
+        "receita": 64.0,
+        "crescimento": -99.89
+      },
+      {
+        "periodo": "2026-05",
+        "receita": 4302.57,
+        "crescimento": 6622.77
+      }
+    ],
+    "pedidosPorMes": [
+      {
+        "periodo": "2025-05",
+        "pedidos": 60,
+        "crescimento": 0.0
+      },
+      {
+        "periodo": "2025-06",
+        "pedidos": 546,
+        "crescimento": 810.0
+      },
+      {
+        "periodo": "2025-07",
+        "pedidos": 445,
+        "crescimento": -18.5
+      },
+      {
+        "periodo": "2025-08",
+        "pedidos": 464,
+        "crescimento": 4.27
+      },
+      {
+        "periodo": "2025-09",
+        "pedidos": 448,
+        "crescimento": -3.45
+      },
+      {
+        "periodo": "2025-10",
+        "pedidos": 661,
+        "crescimento": 47.54
+      },
+      {
+        "periodo": "2025-11",
+        "pedidos": 939,
+        "crescimento": 42.06
+      },
+      {
+        "periodo": "2025-12",
+        "pedidos": 673,
+        "crescimento": -28.33
+      },
+      {
+        "periodo": "2026-01",
+        "pedidos": 962,
+        "crescimento": 42.94
+      },
+      {
+        "periodo": "2026-02",
+        "pedidos": 1,
+        "crescimento": -99.9
+      },
+      {
+        "periodo": "2026-05",
+        "pedidos": 39,
+        "crescimento": 3800.0
+      }
+    ],
+    "ticketMedioPorMes": [
+      {
+        "periodo": "2025-05",
+        "ticketMedio": 53.75
+      },
+      {
+        "periodo": "2025-06",
+        "ticketMedio": 53.12
+      },
+      {
+        "periodo": "2025-07",
+        "ticketMedio": 65.2
+      },
+      {
+        "periodo": "2025-08",
+        "ticketMedio": 63.26
+      },
+      {
+        "periodo": "2025-09",
+        "ticketMedio": 58.76
+      },
+      {
+        "periodo": "2025-10",
+        "ticketMedio": 48.23
+      },
+      {
+        "periodo": "2025-11",
+        "ticketMedio": 48.9
+      },
+      {
+        "periodo": "2025-12",
+        "ticketMedio": 57.42
+      },
+      {
+        "periodo": "2026-01",
+        "ticketMedio": 60.19
+      },
+      {
+        "periodo": "2026-02",
+        "ticketMedio": 64.0
+      },
+      {
+        "periodo": "2026-05",
+        "ticketMedio": 110.32
+      }
+    ],
+    "clientesNovosPorMes": [
+      {
+        "periodo": "2025-05",
+        "clientes": 6
+      },
+      {
+        "periodo": "2025-06",
+        "clientes": 3
+      },
+      {
+        "periodo": "2025-07",
+        "clientes": 2616
+      },
+      {
+        "periodo": "2025-08",
+        "clientes": 14587
+      },
+      {
+        "periodo": "2025-09",
+        "clientes": 44376
+      },
+      {
+        "periodo": "2025-10",
+        "clientes": 41264
+      },
+      {
+        "periodo": "2025-11",
+        "clientes": 31497
+      },
+      {
+        "periodo": "2025-12",
+        "clientes": 23901
+      },
+      {
+        "periodo": "2026-01",
+        "clientes": 2314
+      }
+    ],
+    "performanceCanais": [
+      {
+        "canal": "Cardapioweb",
+        "receita": 256184.43,
+        "pedidos": 4317,
+        "ticketMedio": 59.34
+      },
+      {
+        "canal": "Ifood",
+        "receita": 35141.03,
+        "pedidos": 882,
+        "ticketMedio": 39.84
+      },
+      {
+        "canal": "app",
+        "receita": 1634.79,
+        "pedidos": 15,
+        "ticketMedio": 108.99
+      },
+      {
+        "canal": "delivery_proprio",
+        "receita": 1412.17,
+        "pedidos": 13,
+        "ticketMedio": 108.63
+      },
+      {
+        "canal": "balcao",
+        "receita": 1255.61,
+        "pedidos": 11,
+        "ticketMedio": 114.15
+      }
+    ],
+    "pedidosPorTipo": [
+      {
+        "tipo": "Delivery",
+        "receita": 223690.06,
+        "pedidos": 3871
+      },
+      {
+        "tipo": "Takeout",
+        "receita": 66718.9,
+        "pedidos": 1316
+      },
+      {
+        "tipo": "delivery",
+        "receita": 2529.29,
+        "pedidos": 23
+      },
+      {
+        "tipo": "takeout",
+        "receita": 1773.28,
+        "pedidos": 16
+      },
+      {
+        "tipo": "Indoor",
+        "receita": 916.5,
+        "pedidos": 12
+      }
+    ],
+    "topEmpresasReceita": [
+      {
+        "empresa": "Bode Dú Burger",
+        "receita": 295628.03
+      }
+    ],
+    "topEmpresasPedidos": [
+      {
+        "empresa": "Bode Dú Burger",
+        "pedidos": 5238
+      }
+    ],
+    "clientesPorEstado": [
+      {
+        "estado": "RR",
+        "clientes": 1386
+      }
+    ]
+  },
+  "rankingEmpresas": [
+    {
+      "storeid": "99792B54-3864-420B-A5Df-354Ff67Ca28D",
+      "empresa": "Bode Dú Burger",
+      "receita": 295628.03,
+      "pedidos": 5238,
+      "clientes": 2475,
+      "clientesRecorrentes": 722,
+      "ticketMedio": 56.44,
+      "recorrencia": 29.17,
+      "desconto": 17971.06,
+      "status": "atencao"
+    }
+  ],
+  "indicadoresObrigatorios": {
+    "porEmpresa": [
+      {
+        "storeid": "99792B54-3864-420B-A5Df-354Ff67Ca28D",
+        "empresa": "Bode Dú Burger",
+        "faturamentoTotal": 295628.03,
+        "pedidosTotais": 5238,
+        "ticketMedio": 56.44,
+        "mensagens": 899,
+        "campanhas": 3,
+        "pedidosConvertidos": 1330,
+        "receitaCampanhas": 103603.21,
+        "taxaConversaoNumero": 147.94,
+        "taxaConversaoValor": 35.05
+      }
+    ],
+    "mensagensPorCampanhaEmpresa": [
+      {
+        "storeid": "99792B54-3864-420B-A5Df-354Ff67Ca28D",
+        "empresa": "Bode Dú Burger",
+        "campanha": "03D924D8-1F91-47C9-A756-1Ff1Bc8781Dd",
+        "mensagens": 344,
+        "pedidosConvertidos": 853,
+        "clientes": 344,
+        "receita": 53241.39,
+        "taxaConversao": 247.97
+      },
+      {
+        "storeid": "99792B54-3864-420B-A5Df-354Ff67Ca28D",
+        "empresa": "Bode Dú Burger",
+        "campanha": "57B15F2F-F766-49Db-B7C4-82A249Fbe51F",
+        "mensagens": 535,
+        "pedidosConvertidos": 857,
+        "clientes": 535,
+        "receita": 49025.25,
+        "taxaConversao": 160.19
+      },
+      {
+        "storeid": "99792B54-3864-420B-A5Df-354Ff67Ca28D",
+        "empresa": "Bode Dú Burger",
+        "campanha": "5438016B-3179-4E80-Ba39-1162927E53Bb",
+        "mensagens": 20,
+        "pedidosConvertidos": 25,
+        "clientes": 20,
+        "receita": 1336.57,
+        "taxaConversao": 125.0
+      }
+    ]
+  },
+  "empresasRisco": {
+    "baixaRecorrencia": [
+      {
+        "empresa": "Bode Dú Burger",
+        "recorrencia": 29.17,
+        "clientes": 2475,
+        "status": "atencao"
+      }
+    ],
+    "ticketBaixo": [
+      {
+        "empresa": "Bode Dú Burger",
+        "ticketMedio": 56.44,
+        "pedidos": 5238,
+        "status": "atencao"
+      }
+    ],
+    "baixoVolumePedidos": [
+      {
+        "empresa": "Bode Dú Burger",
+        "pedidos": 5238,
+        "receita": 295628.03,
+        "status": "atencao"
+      }
+    ],
+    "baixaReceita": [
+      {
+        "empresa": "Bode Dú Burger",
+        "receita": 295628.03,
+        "pedidos": 5238,
+        "status": "atencao"
+      }
+    ]
+  },
+  "performanceCampanhas": [
+    {
+      "campanha": "03D924D8-1F91-47C9-A756-1Ff1Bc8781Dd",
+      "receita": 53241.39,
+      "pedidos": 853,
+      "mensagens": 344,
+      "clientes": 344,
+      "conversao": 100.0
+    },
+    {
+      "campanha": "57B15F2F-F766-49Db-B7C4-82A249Fbe51F",
+      "receita": 49025.25,
+      "pedidos": 857,
+      "mensagens": 535,
+      "clientes": 535,
+      "conversao": 100.0
+    },
+    {
+      "campanha": "5438016B-3179-4E80-Ba39-1162927E53Bb",
+      "receita": 1336.57,
+      "pedidos": 25,
+      "mensagens": 20,
+      "clientes": 20,
+      "conversao": 100.0
+    }
+  ],
+  "campanhas": {
+    "totalCampanhas": 56461,
+    "totalTemplates": 348,
+    "receitaCampanhas": 103603.21,
+    "pedidosGerados": 1735,
+    "mensagens": 899,
+    "conversaoMedia": 192.99,
+    "melhoresCampanhas": [
+      {
+        "campanha": "03D924D8-1F91-47C9-A756-1Ff1Bc8781Dd",
+        "receita": 53241.39,
+        "pedidos": 853,
+        "mensagens": 344,
+        "clientes": 344,
+        "conversao": 100.0
+      },
+      {
+        "campanha": "57B15F2F-F766-49Db-B7C4-82A249Fbe51F",
+        "receita": 49025.25,
+        "pedidos": 857,
+        "mensagens": 535,
+        "clientes": 535,
+        "conversao": 100.0
+      },
+      {
+        "campanha": "5438016B-3179-4E80-Ba39-1162927E53Bb",
+        "receita": 1336.57,
+        "pedidos": 25,
+        "mensagens": 20,
+        "clientes": 20,
+        "conversao": 100.0
+      }
+    ],
+    "campanhasBaixaConversao": [
+      {
+        "campanha": "03D924D8-1F91-47C9-A756-1Ff1Bc8781Dd",
+        "mensagens": 344,
+        "pedidos": 853,
+        "conversao": 100.0,
+        "receita": 53241.39
+      },
+      {
+        "campanha": "57B15F2F-F766-49Db-B7C4-82A249Fbe51F",
+        "mensagens": 535,
+        "pedidos": 857,
+        "conversao": 100.0,
+        "receita": 49025.25
+      }
+    ],
+    "templatesMaisUsados": [
+      {
+        "template": "Clientes 1 Pedido",
+        "usos": 719
+      },
+      {
+        "template": "Todos Os Clientes",
+        "usos": 470
+      }
+    ]
+  },
+  "clientes": {
+    "segmentacao": {
+      "ativos": 33,
+      "inativos": 2442,
+      "recorrentes": 722,
+      "ocasionais": 1753,
+      "semPedido": 158235,
+      "comPedido": 2475,
+      "taxaRecorrencia": 29.17
+    },
+    "clientesNovosPorMes": [
+      {
+        "periodo": "2025-05",
+        "clientes": 6
+      },
+      {
+        "periodo": "2025-06",
+        "clientes": 3
+      },
+      {
+        "periodo": "2025-07",
+        "clientes": 2616
+      },
+      {
+        "periodo": "2025-08",
+        "clientes": 14587
+      },
+      {
+        "periodo": "2025-09",
+        "clientes": 44376
+      },
+      {
+        "periodo": "2025-10",
+        "clientes": 41264
+      },
+      {
+        "periodo": "2025-11",
+        "clientes": 31497
+      },
+      {
+        "periodo": "2025-12",
+        "clientes": 23901
+      },
+      {
+        "periodo": "2026-01",
+        "clientes": 2314
+      }
+    ],
+    "clientesPorEstado": [
+      {
+        "estado": "RR",
+        "clientes": 1386
+      }
+    ],
+    "rfm": {
+      "resumo": {
+        "totalClientesAnalisados": 2475,
+        "campeoes": 7,
+        "fieis": 0,
+        "potenciais": 25,
+        "emRisco": 324,
+        "perdidos": 2117,
+        "novosClientes": 1
+      },
+      "segmentos": [
+        {
+          "segmento": "Perdidos",
+          "clientes": 2117,
+          "participacao": 85.54,
+          "receita": 136316.79,
+          "pedidos": 2483,
+          "ticketMedio": 54.46,
+          "recenciaMediaDias": 182,
+          "scoreMedio": 5.46
+        },
+        {
+          "segmento": "Em risco",
+          "clientes": 324,
+          "participacao": 13.09,
+          "receita": 96327.62,
+          "pedidos": 1675,
+          "ticketMedio": 56.9,
+          "recenciaMediaDias": 152,
+          "scoreMedio": 10.1
+        },
+        {
+          "segmento": "Campeões",
+          "clientes": 7,
+          "participacao": 0.28,
+          "receita": 58016.95,
+          "pedidos": 1017,
+          "ticketMedio": 52.97,
+          "recenciaMediaDias": 1,
+          "scoreMedio": 14.71
+        },
+        {
+          "segmento": "Potenciais",
+          "clientes": 25,
+          "participacao": 1.01,
+          "receita": 4792.19,
+          "pedidos": 61,
+          "ticketMedio": 77.85,
+          "recenciaMediaDias": 3,
+          "scoreMedio": 12.04
+        },
+        {
+          "segmento": "Novos clientes",
+          "clientes": 1,
+          "participacao": 0.04,
+          "receita": 110.48,
+          "pedidos": 1,
+          "ticketMedio": 110.48,
+          "recenciaMediaDias": 4,
+          "scoreMedio": 10.0
+        },
+        {
+          "segmento": "Ocasionais",
+          "clientes": 1,
+          "participacao": 0.04,
+          "receita": 64.0,
+          "pedidos": 1,
+          "ticketMedio": 64.0,
+          "recenciaMediaDias": 90,
+          "scoreMedio": 7.0
+        }
+      ],
+      "topClientes": [
+        {
+          "customerid": "62B0896F-Ec98-4424-Aa2E-Ab3D4409Ceae",
+          "segmento": "Campeões",
+          "receita": 51124.63,
+          "pedidos": 891,
+          "ticketMedio": 57.38,
+          "recenciaDias": 0,
+          "scoreRecencia": 5,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 15,
+          "ultimoPedido": "2026-05-08"
+        },
+        {
+          "customerid": "9333C13C-6D7F-4Ef9-Ac5B-988C26Cae089",
+          "segmento": "Campeões",
+          "receita": 3956.36,
+          "pedidos": 72,
+          "ticketMedio": 54.95,
+          "recenciaDias": 0,
+          "scoreRecencia": 5,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 15,
+          "ultimoPedido": "2026-05-08"
+        },
+        {
+          "customerid": "7Ba4E0A8-D1E1-44Ce-970C-671D63Fb1670",
+          "segmento": "Campeões",
+          "receita": 1154.36,
+          "pedidos": 18,
+          "ticketMedio": 64.13,
+          "recenciaDias": 4,
+          "scoreRecencia": 5,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 15,
+          "ultimoPedido": "2026-05-04"
+        },
+        {
+          "customerid": "93F7Dac0-03B0-45Ee-875A-Ed5Cbe63B452",
+          "segmento": "Campeões",
+          "receita": 723.49,
+          "pedidos": 11,
+          "ticketMedio": 65.77,
+          "recenciaDias": 0,
+          "scoreRecencia": 5,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 15,
+          "ultimoPedido": "2026-05-08"
+        },
+        {
+          "customerid": "Ce3394D7-3304-4363-Ac29-5Db39D345Fa9",
+          "segmento": "Campeões",
+          "receita": 497.44,
+          "pedidos": 10,
+          "ticketMedio": 49.74,
+          "recenciaDias": 0,
+          "scoreRecencia": 5,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 15,
+          "ultimoPedido": "2026-05-08"
+        },
+        {
+          "customerid": "C63Fca34-Dce9-42D6-Bb4A-E33F503A92D1",
+          "segmento": "Campeões",
+          "receita": 297.09,
+          "pedidos": 6,
+          "ticketMedio": 49.51,
+          "recenciaDias": 4,
+          "scoreRecencia": 5,
+          "scoreFrequencia": 4,
+          "scoreMonetario": 5,
+          "scoreRFM": 14,
+          "ultimoPedido": "2026-05-04"
+        },
+        {
+          "customerid": "2D000E77-C21A-441F-Ae93-B4Dc22Eee141",
+          "segmento": "Campeões",
+          "receita": 263.58,
+          "pedidos": 9,
+          "ticketMedio": 29.29,
+          "recenciaDias": 0,
+          "scoreRecencia": 5,
+          "scoreFrequencia": 4,
+          "scoreMonetario": 5,
+          "scoreRFM": 14,
+          "ultimoPedido": "2026-05-08"
+        },
+        {
+          "customerid": "1Aeab9Ef-A208-4B90-B836-D2Ac48663204",
+          "segmento": "Potenciais",
+          "receita": 462.67,
+          "pedidos": 4,
+          "ticketMedio": 115.67,
+          "recenciaDias": 4,
+          "scoreRecencia": 5,
+          "scoreFrequencia": 3,
+          "scoreMonetario": 5,
+          "scoreRFM": 13,
+          "ultimoPedido": "2026-05-04"
+        },
+        {
+          "customerid": "Feb6C26F-C64A-4101-B539-585543A8587C",
+          "segmento": "Potenciais",
+          "receita": 337.13,
+          "pedidos": 4,
+          "ticketMedio": 84.28,
+          "recenciaDias": 0,
+          "scoreRecencia": 5,
+          "scoreFrequencia": 3,
+          "scoreMonetario": 5,
+          "scoreRFM": 13,
+          "ultimoPedido": "2026-05-07"
+        },
+        {
+          "customerid": "E19Df4F2-662A-40Cd-A0Ba-351E7B12Eae9",
+          "segmento": "Potenciais",
+          "receita": 312.53,
+          "pedidos": 4,
+          "ticketMedio": 78.13,
+          "recenciaDias": 4,
+          "scoreRecencia": 5,
+          "scoreFrequencia": 3,
+          "scoreMonetario": 5,
+          "scoreRFM": 13,
+          "ultimoPedido": "2026-05-04"
+        },
+        {
+          "customerid": "67B3767B-B85A-4B26-A674-55A0Df1752Ab",
+          "segmento": "Potenciais",
+          "receita": 271.06,
+          "pedidos": 3,
+          "ticketMedio": 90.35,
+          "recenciaDias": 4,
+          "scoreRecencia": 5,
+          "scoreFrequencia": 3,
+          "scoreMonetario": 5,
+          "scoreRFM": 13,
+          "ultimoPedido": "2026-05-04"
+        },
+        {
+          "customerid": "580603D8-307F-4Aab-8Dc2-9158Db21Dea2",
+          "segmento": "Potenciais",
+          "receita": 239.89,
+          "pedidos": 4,
+          "ticketMedio": 59.97,
+          "recenciaDias": 4,
+          "scoreRecencia": 5,
+          "scoreFrequencia": 3,
+          "scoreMonetario": 5,
+          "scoreRFM": 13,
+          "ultimoPedido": "2026-05-04"
+        },
+        {
+          "customerid": "5C3574Af-Be51-46Fc-8C5B-1E2B578011D4",
+          "segmento": "Potenciais",
+          "receita": 231.77,
+          "pedidos": 3,
+          "ticketMedio": 77.26,
+          "recenciaDias": 4,
+          "scoreRecencia": 5,
+          "scoreFrequencia": 3,
+          "scoreMonetario": 5,
+          "scoreRFM": 13,
+          "ultimoPedido": "2026-05-04"
+        },
+        {
+          "customerid": "E2C88987-5Acc-45F3-B917-F62093Ba982C",
+          "segmento": "Potenciais",
+          "receita": 167.2,
+          "pedidos": 3,
+          "ticketMedio": 55.73,
+          "recenciaDias": 4,
+          "scoreRecencia": 5,
+          "scoreFrequencia": 3,
+          "scoreMonetario": 5,
+          "scoreRFM": 13,
+          "ultimoPedido": "2026-05-04"
+        },
+        {
+          "customerid": "7Ac9De03-2102-4Dd2-B7A5-2F102575Abc6",
+          "segmento": "Em risco",
+          "receita": 2094.97,
+          "pedidos": 19,
+          "ticketMedio": 110.26,
+          "recenciaDias": 125,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2026-01-03"
+        },
+        {
+          "customerid": "25Addd84-4C81-4F92-Aead-E2Ce84973E2F",
+          "segmento": "Em risco",
+          "receita": 1903.4,
+          "pedidos": 32,
+          "ticketMedio": 59.48,
+          "recenciaDias": 106,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2026-01-22"
+        },
+        {
+          "customerid": "6Cfdf378-B8F0-4925-9Fa6-348Ff35E5258",
+          "segmento": "Em risco",
+          "receita": 1424.4,
+          "pedidos": 21,
+          "ticketMedio": 67.83,
+          "recenciaDias": 108,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2026-01-20"
+        },
+        {
+          "customerid": "44Dd9966-3424-4967-9Ee8-79A16E3F0C61",
+          "segmento": "Em risco",
+          "receita": 1374.3,
+          "pedidos": 14,
+          "ticketMedio": 98.16,
+          "recenciaDias": 132,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2025-12-27"
+        },
+        {
+          "customerid": "8091Baa6-6E25-47C5-91Db-A961B262F554",
+          "segmento": "Em risco",
+          "receita": 963.09,
+          "pedidos": 14,
+          "ticketMedio": 68.79,
+          "recenciaDias": 100,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2026-01-28"
+        },
+        {
+          "customerid": "D637Eb81-08F8-42C2-83F4-19C95Cb2Bd11",
+          "segmento": "Em risco",
+          "receita": 846.76,
+          "pedidos": 20,
+          "ticketMedio": 42.34,
+          "recenciaDias": 103,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2026-01-25"
+        },
+        {
+          "customerid": "1A58Ccbb-9D68-4435-A5A3-C8Bfcfebf83E",
+          "segmento": "Em risco",
+          "receita": 774.92,
+          "pedidos": 14,
+          "ticketMedio": 55.35,
+          "recenciaDias": 106,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2026-01-22"
+        },
+        {
+          "customerid": "9A7F867E-A2B9-49D2-Aa8D-D5C6Da7512B1",
+          "segmento": "Em risco",
+          "receita": 774.0,
+          "pedidos": 17,
+          "ticketMedio": 45.53,
+          "recenciaDias": 108,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2026-01-20"
+        },
+        {
+          "customerid": "1103802A-7Bfb-4037-8C55-260Ee5B6Ed3A",
+          "segmento": "Em risco",
+          "receita": 754.18,
+          "pedidos": 11,
+          "ticketMedio": 68.56,
+          "recenciaDias": 138,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2025-12-21"
+        },
+        {
+          "customerid": "670Cb714-F586-4E26-Bf6A-445579E03163",
+          "segmento": "Em risco",
+          "receita": 724.39,
+          "pedidos": 14,
+          "ticketMedio": 51.74,
+          "recenciaDias": 108,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2026-01-20"
+        },
+        {
+          "customerid": "E5Fc8903-Cdec-4581-A099-56F181De33C3",
+          "segmento": "Em risco",
+          "receita": 660.39,
+          "pedidos": 12,
+          "ticketMedio": 55.03,
+          "recenciaDias": 100,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2026-01-28"
+        },
+        {
+          "customerid": "8178Ecf2-6523-4Dbe-B27C-C5Ca19A04468",
+          "segmento": "Em risco",
+          "receita": 658.54,
+          "pedidos": 11,
+          "ticketMedio": 59.87,
+          "recenciaDias": 107,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2026-01-21"
+        },
+        {
+          "customerid": "5532C2F1-Bfa2-4950-A490-Efbce857Ff83",
+          "segmento": "Em risco",
+          "receita": 620.49,
+          "pedidos": 10,
+          "ticketMedio": 62.05,
+          "recenciaDias": 112,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2026-01-16"
+        },
+        {
+          "customerid": "A422Bf46-134B-4392-8Fd3-F35918693A54",
+          "segmento": "Em risco",
+          "receita": 610.8,
+          "pedidos": 11,
+          "ticketMedio": 55.53,
+          "recenciaDias": 149,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2025-12-10"
+        },
+        {
+          "customerid": "3D89551C-E7Fb-478B-9401-463C81B21Ef0",
+          "segmento": "Em risco",
+          "receita": 559.59,
+          "pedidos": 16,
+          "ticketMedio": 34.97,
+          "recenciaDias": 140,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2025-12-19"
+        },
+        {
+          "customerid": "7C73Dab8-950C-423F-A0D5-D82D34Ee84E9",
+          "segmento": "Em risco",
+          "receita": 515.0,
+          "pedidos": 12,
+          "ticketMedio": 42.92,
+          "recenciaDias": 162,
+          "scoreRecencia": 2,
+          "scoreFrequencia": 5,
+          "scoreMonetario": 5,
+          "scoreRFM": 12,
+          "ultimoPedido": "2025-11-27"
+        }
+      ]
+    },
+    "coortes": [
+      {
+        "coorte": "2026-05",
+        "clientesBase": 1,
+        "mes0": 1,
+        "retencaoMes0": 100.0,
+        "mes1": 0,
+        "retencaoMes1": 0.0,
+        "mes2": 0,
+        "retencaoMes2": 0.0,
+        "mes3": 0,
+        "retencaoMes3": 0.0,
+        "mes4": 0,
+        "retencaoMes4": 0.0,
+        "mes5": 0,
+        "retencaoMes5": 0.0
+      },
+      {
+        "coorte": "2026-02",
+        "clientesBase": 1,
+        "mes0": 1,
+        "retencaoMes0": 100.0,
+        "mes1": 0,
+        "retencaoMes1": 0.0,
+        "mes2": 0,
+        "retencaoMes2": 0.0,
+        "mes3": 0,
+        "retencaoMes3": 0.0,
+        "mes4": 0,
+        "retencaoMes4": 0.0,
+        "mes5": 0,
+        "retencaoMes5": 0.0
+      },
+      {
+        "coorte": "2026-01",
+        "clientesBase": 522,
+        "mes0": 522,
+        "retencaoMes0": 100.0,
+        "mes1": 0,
+        "retencaoMes1": 0.0,
+        "mes2": 0,
+        "retencaoMes2": 0.0,
+        "mes3": 0,
+        "retencaoMes3": 0.0,
+        "mes4": 6,
+        "retencaoMes4": 1.15,
+        "mes5": 0,
+        "retencaoMes5": 0.0
+      },
+      {
+        "coorte": "2025-12",
+        "clientesBase": 369,
+        "mes0": 369,
+        "retencaoMes0": 100.0,
+        "mes1": 46,
+        "retencaoMes1": 12.47,
+        "mes2": 0,
+        "retencaoMes2": 0.0,
+        "mes3": 0,
+        "retencaoMes3": 0.0,
+        "mes4": 0,
+        "retencaoMes4": 0.0,
+        "mes5": 5,
+        "retencaoMes5": 1.36
+      },
+      {
+        "coorte": "2025-11",
+        "clientesBase": 455,
+        "mes0": 455,
+        "retencaoMes0": 100.0,
+        "mes1": 46,
+        "retencaoMes1": 10.11,
+        "mes2": 47,
+        "retencaoMes2": 10.33,
+        "mes3": 0,
+        "retencaoMes3": 0.0,
+        "mes4": 0,
+        "retencaoMes4": 0.0,
+        "mes5": 0,
+        "retencaoMes5": 0.0
+      },
+      {
+        "coorte": "2025-10",
+        "clientesBase": 344,
+        "mes0": 344,
+        "retencaoMes0": 100.0,
+        "mes1": 76,
+        "retencaoMes1": 22.09,
+        "mes2": 28,
+        "retencaoMes2": 8.14,
+        "mes3": 23,
+        "retencaoMes3": 6.69,
+        "mes4": 0,
+        "retencaoMes4": 0.0,
+        "mes5": 0,
+        "retencaoMes5": 0.0
+      },
+      {
+        "coorte": "2025-09",
+        "clientesBase": 180,
+        "mes0": 180,
+        "retencaoMes0": 100.0,
+        "mes1": 29,
+        "retencaoMes1": 16.11,
+        "mes2": 25,
+        "retencaoMes2": 13.89,
+        "mes3": 13,
+        "retencaoMes3": 7.22,
+        "mes4": 17,
+        "retencaoMes4": 9.44,
+        "mes5": 0,
+        "retencaoMes5": 0.0
+      },
+      {
+        "coorte": "2025-08",
+        "clientesBase": 162,
+        "mes0": 162,
+        "retencaoMes0": 100.0,
+        "mes1": 32,
+        "retencaoMes1": 19.75,
+        "mes2": 27,
+        "retencaoMes2": 16.67,
+        "mes3": 15,
+        "retencaoMes3": 9.26,
+        "mes4": 15,
+        "retencaoMes4": 9.26,
+        "mes5": 21,
+        "retencaoMes5": 12.96
+      },
+      {
+        "coorte": "2025-07",
+        "clientesBase": 167,
+        "mes0": 167,
+        "retencaoMes0": 100.0,
+        "mes1": 37,
+        "retencaoMes1": 22.16,
+        "mes2": 21,
+        "retencaoMes2": 12.57,
+        "mes3": 21,
+        "retencaoMes3": 12.57,
+        "mes4": 24,
+        "retencaoMes4": 14.37,
+        "mes5": 15,
+        "retencaoMes5": 8.98
+      },
+      {
+        "coorte": "2025-06",
+        "clientesBase": 271,
+        "mes0": 271,
+        "retencaoMes0": 100.0,
+        "mes1": 39,
+        "retencaoMes1": 14.39,
+        "mes2": 34,
+        "retencaoMes2": 12.55,
+        "mes3": 22,
+        "retencaoMes3": 8.12,
+        "mes4": 21,
+        "retencaoMes4": 7.75,
+        "mes5": 29,
+        "retencaoMes5": 10.7
+      },
+      {
+        "coorte": "2025-05",
+        "clientesBase": 3,
+        "mes0": 3,
+        "retencaoMes0": 100.0,
+        "mes1": 2,
+        "retencaoMes1": 66.67,
+        "mes2": 0,
+        "retencaoMes2": 0.0,
+        "mes3": 1,
+        "retencaoMes3": 33.33,
+        "mes4": 1,
+        "retencaoMes4": 33.33,
+        "mes5": 0,
+        "retencaoMes5": 0.0
+      }
+    ]
+  },
+  "financeiro": {
+    "receitaTotal": 295628.03,
+    "receitaBruta": 295628.03,
+    "receitaLiquida": 277656.97,
+    "custosVariaveis": 105509.65,
+    "margemBruta": 172147.32,
+    "margemPercentual": 62.0,
+    "caixaEstimado": 30986.52,
+    "ticketMedio": 56.44,
+    "descontosTotal": 17971.06,
+    "taxaDescontoMedia": 6.25,
+    "percentualCustoVariavel": 38.0,
+    "percentualReservaCaixa": 18.0,
+    "receitaPorMes": [
+      {
+        "periodo": "2025-05",
+        "receita": 3225.0,
+        "crescimento": 0.0
+      },
+      {
+        "periodo": "2025-06",
+        "receita": 29005.0,
+        "crescimento": 799.38
+      },
+      {
+        "periodo": "2025-07",
+        "receita": 29013.4,
+        "crescimento": 0.03
+      },
+      {
+        "periodo": "2025-08",
+        "receita": 29352.28,
+        "crescimento": 1.17
+      },
+      {
+        "periodo": "2025-09",
+        "receita": 26323.99,
+        "crescimento": -10.32
+      },
+      {
+        "periodo": "2025-10",
+        "receita": 31878.12,
+        "crescimento": 21.1
+      },
+      {
+        "periodo": "2025-11",
+        "receita": 45916.18,
+        "crescimento": 44.04
+      },
+      {
+        "periodo": "2025-12",
+        "receita": 38642.06,
+        "crescimento": -15.84
+      },
+      {
+        "periodo": "2026-01",
+        "receita": 57905.43,
+        "crescimento": 49.85
+      },
+      {
+        "periodo": "2026-02",
+        "receita": 64.0,
+        "crescimento": -99.89
+      },
+      {
+        "periodo": "2026-05",
+        "receita": 4302.57,
+        "crescimento": 6622.77
+      }
+    ],
+    "ticketMedioPorMes": [
+      {
+        "periodo": "2025-05",
+        "ticketMedio": 53.75
+      },
+      {
+        "periodo": "2025-06",
+        "ticketMedio": 53.12
+      },
+      {
+        "periodo": "2025-07",
+        "ticketMedio": 65.2
+      },
+      {
+        "periodo": "2025-08",
+        "ticketMedio": 63.26
+      },
+      {
+        "periodo": "2025-09",
+        "ticketMedio": 58.76
+      },
+      {
+        "periodo": "2025-10",
+        "ticketMedio": 48.23
+      },
+      {
+        "periodo": "2025-11",
+        "ticketMedio": 48.9
+      },
+      {
+        "periodo": "2025-12",
+        "ticketMedio": 57.42
+      },
+      {
+        "periodo": "2026-01",
+        "ticketMedio": 60.19
+      },
+      {
+        "periodo": "2026-02",
+        "ticketMedio": 64.0
+      },
+      {
+        "periodo": "2026-05",
+        "ticketMedio": 110.32
+      }
+    ],
+    "performanceCanais": [
+      {
+        "canal": "Cardapioweb",
+        "receita": 256184.43,
+        "pedidos": 4317,
+        "ticketMedio": 59.34
+      },
+      {
+        "canal": "Ifood",
+        "receita": 35141.03,
+        "pedidos": 882,
+        "ticketMedio": 39.84
+      },
+      {
+        "canal": "app",
+        "receita": 1634.79,
+        "pedidos": 15,
+        "ticketMedio": 108.99
+      },
+      {
+        "canal": "delivery_proprio",
+        "receita": 1412.17,
+        "pedidos": 13,
+        "ticketMedio": 108.63
+      },
+      {
+        "canal": "balcao",
+        "receita": 1255.61,
+        "pedidos": 11,
+        "ticketMedio": 114.15
+      }
+    ],
+    "pedidosPorTipo": [
+      {
+        "tipo": "Delivery",
+        "receita": 223690.06,
+        "pedidos": 3871
+      },
+      {
+        "tipo": "Takeout",
+        "receita": 66718.9,
+        "pedidos": 1316
+      },
+      {
+        "tipo": "delivery",
+        "receita": 2529.29,
+        "pedidos": 23
+      },
+      {
+        "tipo": "takeout",
+        "receita": 1773.28,
+        "pedidos": 16
+      },
+      {
+        "tipo": "Indoor",
+        "receita": 916.5,
+        "pedidos": 12
+      }
+    ],
+    "resultadoPorMes": [
+      {
+        "periodo": "2025-05",
+        "receitaBruta": 3225.0,
+        "descontos": 0.0,
+        "receitaLiquida": 3225.0,
+        "custosVariaveis": 1225.5,
+        "margemBruta": 1999.5,
+        "margemPercentual": 62.0,
+        "pedidos": 60,
+        "ticketMedio": 53.75
+      },
+      {
+        "periodo": "2025-06",
+        "receitaBruta": 29005.0,
+        "descontos": 126.0,
+        "receitaLiquida": 28879.0,
+        "custosVariaveis": 10974.02,
+        "margemBruta": 17904.98,
+        "margemPercentual": 62.0,
+        "pedidos": 546,
+        "ticketMedio": 53.12
+      },
+      {
+        "periodo": "2025-07",
+        "receitaBruta": 29013.4,
+        "descontos": 37.6,
+        "receitaLiquida": 28975.8,
+        "custosVariaveis": 11010.8,
+        "margemBruta": 17965.0,
+        "margemPercentual": 62.0,
+        "pedidos": 445,
+        "ticketMedio": 65.2
+      },
+      {
+        "periodo": "2025-08",
+        "receitaBruta": 29352.28,
+        "descontos": 514.02,
+        "receitaLiquida": 28838.26,
+        "custosVariaveis": 10958.54,
+        "margemBruta": 17879.72,
+        "margemPercentual": 62.0,
+        "pedidos": 464,
+        "ticketMedio": 63.26
+      },
+      {
+        "periodo": "2025-09",
+        "receitaBruta": 26323.99,
+        "descontos": 1371.4,
+        "receitaLiquida": 24952.59,
+        "custosVariaveis": 9481.98,
+        "margemBruta": 15470.61,
+        "margemPercentual": 62.0,
+        "pedidos": 448,
+        "ticketMedio": 58.76
+      },
+      {
+        "periodo": "2025-10",
+        "receitaBruta": 31878.12,
+        "descontos": 4511.0,
+        "receitaLiquida": 27367.12,
+        "custosVariaveis": 10399.51,
+        "margemBruta": 16967.61,
+        "margemPercentual": 62.0,
+        "pedidos": 661,
+        "ticketMedio": 48.23
+      },
+      {
+        "periodo": "2025-11",
+        "receitaBruta": 45916.18,
+        "descontos": 4406.42,
+        "receitaLiquida": 41509.76,
+        "custosVariaveis": 15773.71,
+        "margemBruta": 25736.05,
+        "margemPercentual": 62.0,
+        "pedidos": 939,
+        "ticketMedio": 48.9
+      },
+      {
+        "periodo": "2025-12",
+        "receitaBruta": 38642.06,
+        "descontos": 3174.88,
+        "receitaLiquida": 35467.18,
+        "custosVariaveis": 13477.53,
+        "margemBruta": 21989.65,
+        "margemPercentual": 62.0,
+        "pedidos": 673,
+        "ticketMedio": 57.42
+      },
+      {
+        "periodo": "2026-01",
+        "receitaBruta": 57905.43,
+        "descontos": 3695.6,
+        "receitaLiquida": 54209.83,
+        "custosVariaveis": 20599.74,
+        "margemBruta": 33610.09,
+        "margemPercentual": 62.0,
+        "pedidos": 962,
+        "ticketMedio": 60.19
+      },
+      {
+        "periodo": "2026-02",
+        "receitaBruta": 64.0,
+        "descontos": 6.0,
+        "receitaLiquida": 58.0,
+        "custosVariaveis": 22.04,
+        "margemBruta": 35.96,
+        "margemPercentual": 62.0,
+        "pedidos": 1,
+        "ticketMedio": 64.0
+      },
+      {
+        "periodo": "2026-05",
+        "receitaBruta": 4302.57,
+        "descontos": 128.14,
+        "receitaLiquida": 4174.43,
+        "custosVariaveis": 1586.28,
+        "margemBruta": 2588.15,
+        "margemPercentual": 62.0,
+        "pedidos": 39,
+        "ticketMedio": 110.32
+      }
+    ],
+    "resultadoPorCanal": [
+      {
+        "canal": "Cardapioweb",
+        "receitaBruta": 256184.43,
+        "descontos": 5494.05,
+        "receitaLiquida": 250690.38,
+        "custosVariaveis": 95262.34,
+        "margemBruta": 155428.04,
+        "margemPercentual": 62.0,
+        "pedidos": 4317,
+        "ticketMedio": 59.34
+      },
+      {
+        "canal": "Ifood",
+        "receitaBruta": 35141.03,
+        "descontos": 12348.87,
+        "receitaLiquida": 22792.16,
+        "custosVariaveis": 8661.02,
+        "margemBruta": 14131.14,
+        "margemPercentual": 62.0,
+        "pedidos": 882,
+        "ticketMedio": 39.84
+      },
+      {
+        "canal": "app",
+        "receitaBruta": 1634.79,
+        "descontos": 41.77,
+        "receitaLiquida": 1593.02,
+        "custosVariaveis": 605.35,
+        "margemBruta": 987.67,
+        "margemPercentual": 62.0,
+        "pedidos": 15,
+        "ticketMedio": 108.99
+      },
+      {
+        "canal": "delivery_proprio",
+        "receitaBruta": 1412.17,
+        "descontos": 64.18,
+        "receitaLiquida": 1347.99,
+        "custosVariaveis": 512.24,
+        "margemBruta": 835.75,
+        "margemPercentual": 62.0,
+        "pedidos": 13,
+        "ticketMedio": 108.63
+      },
+      {
+        "canal": "balcao",
+        "receitaBruta": 1255.61,
+        "descontos": 22.19,
+        "receitaLiquida": 1233.42,
+        "custosVariaveis": 468.7,
+        "margemBruta": 764.72,
+        "margemPercentual": 62.0,
+        "pedidos": 11,
+        "ticketMedio": 114.15
+      }
+    ],
+    "resultadoPorTipoPedido": [
+      {
+        "tipo": "Delivery",
+        "receitaBruta": 223690.06,
+        "descontos": 17072.3,
+        "receitaLiquida": 206617.76,
+        "custosVariaveis": 78514.75,
+        "margemBruta": 128103.01,
+        "margemPercentual": 62.0,
+        "pedidos": 3871
+      },
+      {
+        "tipo": "Takeout",
+        "receitaBruta": 66718.9,
+        "descontos": 770.62,
+        "receitaLiquida": 65948.28,
+        "custosVariaveis": 25060.35,
+        "margemBruta": 40887.93,
+        "margemPercentual": 62.0,
+        "pedidos": 1316
+      },
+      {
+        "tipo": "delivery",
+        "receitaBruta": 2529.29,
+        "descontos": 105.7,
+        "receitaLiquida": 2423.59,
+        "custosVariaveis": 920.96,
+        "margemBruta": 1502.63,
+        "margemPercentual": 62.0,
+        "pedidos": 23
+      },
+      {
+        "tipo": "takeout",
+        "receitaBruta": 1773.28,
+        "descontos": 22.44,
+        "receitaLiquida": 1750.84,
+        "custosVariaveis": 665.32,
+        "margemBruta": 1085.52,
+        "margemPercentual": 62.0,
+        "pedidos": 16
+      },
+      {
+        "tipo": "Indoor",
+        "receitaBruta": 916.5,
+        "descontos": 0.0,
+        "receitaLiquida": 916.5,
+        "custosVariaveis": 348.27,
+        "margemBruta": 568.23,
+        "margemPercentual": 62.0,
+        "pedidos": 12
+      }
+    ],
+    "alertasFinanceiros": []
+  },
+  "empresas": {
+    "total": 77,
+    "rankingReceita": [
+      {
+        "storeid": "99792B54-3864-420B-A5Df-354Ff67Ca28D",
+        "empresa": "Bode Dú Burger",
+        "receita": 295628.03,
+        "pedidos": 5238,
+        "clientes": 2475,
+        "clientesRecorrentes": 722,
+        "ticketMedio": 56.44,
+        "recorrencia": 29.17,
+        "desconto": 17971.06,
+        "status": "atencao"
+      }
+    ],
+    "melhoresDesempenhos": [
+      {
+        "storeid": "99792B54-3864-420B-A5Df-354Ff67Ca28D",
+        "empresa": "Bode Dú Burger",
+        "receita": 295628.03,
+        "pedidos": 5238,
+        "clientes": 2475,
+        "clientesRecorrentes": 722,
+        "ticketMedio": 56.44,
+        "recorrencia": 29.17,
+        "desconto": 17971.06,
+        "status": "atencao"
+      }
+    ],
+    "empresasRisco": {
+      "baixaRecorrencia": [
+        {
+          "empresa": "Bode Dú Burger",
+          "recorrencia": 29.17,
+          "clientes": 2475,
+          "status": "atencao"
+        }
+      ],
+      "ticketBaixo": [
+        {
+          "empresa": "Bode Dú Burger",
+          "ticketMedio": 56.44,
+          "pedidos": 5238,
+          "status": "atencao"
+        }
+      ],
+      "baixoVolumePedidos": [
+        {
+          "empresa": "Bode Dú Burger",
+          "pedidos": 5238,
+          "receita": 295628.03,
+          "status": "atencao"
+        }
+      ],
+      "baixaReceita": [
+        {
+          "empresa": "Bode Dú Burger",
+          "receita": 295628.03,
+          "pedidos": 5238,
+          "status": "atencao"
+        }
+      ]
+    }
+  },
+  "recomendacoes": {
+    "resumo": {
+      "totalRecomendacoes": 6,
+      "altaPrioridade": 3,
+      "roiMedioSimulado": 737.13,
+      "melhorConversao": 100.0,
+      "totalTestesAB": 1,
+      "totalInsights": 2
+    },
+    "sugestoesCampanha": [
+      {
+        "empresa": "Bode Dú Burger",
+        "tipo": "reativacao",
+        "prioridade": "alta",
+        "campanhaRecomendada": "Campanha de reativação de clientes",
+        "justificativa": "A empresa apresenta recorrência de 29.17%, abaixo do patamar esperado. Como o ticket médio é de R$ 56.44, existe potencial para recuperar clientes inativos.",
+        "acaoSugerida": "Enviar campanha com cupom de retorno para clientes sem compra recente.",
+        "metricaBase": "Recorrência",
+        "valorMetrica": 29.17,
+        "receitaPotencial": 23650.24,
+        "roiSimulado": 180.0,
+        "intervaloConfianca95": {
+          "inferior": 25.17,
+          "superior": 33.17
+        }
+      },
+      {
+        "empresa": "Bode Dú Burger",
+        "tipo": "upsell",
+        "prioridade": "media",
+        "campanhaRecomendada": "Campanha de combo, upsell ou pedido mínimo",
+        "justificativa": "A empresa possui ticket médio de R$ 56.44, entre os menores da base. Campanhas de combo e venda adicional podem aumentar o valor médio por pedido.",
+        "acaoSugerida": "Criar oferta de combo, adicional promocional ou benefício acima de um valor mínimo.",
+        "metricaBase": "Ticket médio",
+        "valorMetrica": 56.44,
+        "receitaPotencial": 17737.68,
+        "roiSimulado": 140.0,
+        "intervaloConfianca95": {
+          "inferior": 8.0,
+          "superior": 16.0
+        }
+      },
+      {
+        "empresa": "Visão global",
+        "tipo": "baixa_conversao",
+        "prioridade": "alta",
+        "campanhaRecomendada": "Revisão de campanha com baixa conversão",
+        "campanhaReferencia": "03D924D8-1F91-47C9-A756-1Ff1Bc8781Dd",
+        "justificativa": "A campanha 03D924D8-1F91-47C9-A756-1Ff1Bc8781Dd teve conversão de 100.0%, indicando baixa eficiência entre mensagens enviadas e pedidos convertidos.",
+        "acaoSugerida": "Revisar público-alvo, oferta, texto da mensagem, horário de envio e incentivo comercial.",
+        "metricaBase": "Conversão",
+        "valorMetrica": 100.0,
+        "receitaPotencial": 5324.14,
+        "roiSimulado": 1288.76,
+        "intervaloConfianca95": {
+          "inferior": 0,
+          "superior": 0
+        }
+      },
+      {
+        "empresa": "Visão global",
+        "tipo": "baixa_conversao",
+        "prioridade": "alta",
+        "campanhaRecomendada": "Revisão de campanha com baixa conversão",
+        "campanhaReferencia": "57B15F2F-F766-49Db-B7C4-82A249Fbe51F",
+        "justificativa": "A campanha 57B15F2F-F766-49Db-B7C4-82A249Fbe51F teve conversão de 100.0%, indicando baixa eficiência entre mensagens enviadas e pedidos convertidos.",
+        "acaoSugerida": "Revisar público-alvo, oferta, texto da mensagem, horário de envio e incentivo comercial.",
+        "metricaBase": "Conversão",
+        "valorMetrica": 100.0,
+        "receitaPotencial": 4902.53,
+        "roiSimulado": 762.63,
+        "intervaloConfianca95": {
+          "inferior": 0,
+          "superior": 0
+        }
+      },
+      {
+        "empresa": "Visão global",
+        "tipo": "replicar_campanha",
+        "prioridade": "media",
+        "campanhaRecomendada": "Replicar campanha de alta conversão",
+        "campanhaReferencia": "03D924D8-1F91-47C9-A756-1Ff1Bc8781Dd",
+        "justificativa": "A campanha 03D924D8-1F91-47C9-A756-1Ff1Bc8781Dd apresentou conversão de 100.0% e receita de R$ 53241.39, indicando boa performance comercial.",
+        "acaoSugerida": "Replicar campanha para empresas com perfil semelhante e baixa recorrência.",
+        "metricaBase": "Conversão e receita",
+        "valorMetrica": 100.0,
+        "receitaPotencial": 7986.21,
+        "roiSimulado": 1288.76,
+        "intervaloConfianca95": {
+          "inferior": 0,
+          "superior": 0
+        }
+      },
+      {
+        "empresa": "Visão global",
+        "tipo": "replicar_campanha",
+        "prioridade": "media",
+        "campanhaRecomendada": "Replicar campanha de alta conversão",
+        "campanhaReferencia": "57B15F2F-F766-49Db-B7C4-82A249Fbe51F",
+        "justificativa": "A campanha 57B15F2F-F766-49Db-B7C4-82A249Fbe51F apresentou conversão de 100.0% e receita de R$ 49025.25, indicando boa performance comercial.",
+        "acaoSugerida": "Replicar campanha para empresas com perfil semelhante e baixa recorrência.",
+        "metricaBase": "Conversão e receita",
+        "valorMetrica": 100.0,
+        "receitaPotencial": 7353.79,
+        "roiSimulado": 762.63,
+        "intervaloConfianca95": {
+          "inferior": 0,
+          "superior": 0
+        }
+      }
+    ],
+    "testeAB": [
+      {
+        "empresa": "Visão global",
+        "campanhaA": "57B15F2F-F766-49Db-B7C4-82A249Fbe51F",
+        "campanhaB": "03D924D8-1F91-47C9-A756-1Ff1Bc8781Dd",
+        "mensagensA": 535,
+        "mensagensB": 344,
+        "pedidosA": 857,
+        "pedidosB": 853,
+        "conversaoA": 100.0,
+        "conversaoB": 100.0,
+        "vencedora": "57B15F2F-F766-49Db-B7C4-82A249Fbe51F",
+        "intervaloConfiancaA95": {
+          "inferior": 0,
+          "superior": 0
+        },
+        "intervaloConfiancaB95": {
+          "inferior": 0,
+          "superior": 0
+        },
+        "conclusao": "A campanha 57B15F2F-F766-49Db-B7C4-82A249Fbe51F apresentou melhor conversão simulada no comparativo A/B."
+      }
+    ],
+    "insights": [
+      {
+        "tipo": "maior_faturamento",
+        "prioridade": "media",
+        "titulo": "Empresa com maior faturamento",
+        "mensagem": "Bode Dú Burger lidera em faturamento com R$ 295628.03.",
+        "acaoSugerida": "Usar essa empresa como referência para benchmarking comercial."
+      },
+      {
+        "tipo": "melhor_campanha",
+        "prioridade": "media",
+        "titulo": "Campanha com maior eficiência",
+        "mensagem": "A campanha 03D924D8-1F91-47C9-A756-1Ff1Bc8781Dd apresentou conversão de 100.0% e receita de R$ 53241.39.",
+        "acaoSugerida": "Avaliar replicação dessa campanha em empresas com menor performance."
+      }
+    ]
+  },
+  "alertas": [
+    {
+      "tipo": "recorrencia_baixa",
+      "prioridade": "alta",
+      "empresa": "Bode Dú Burger",
+      "mensagem": "Recorrência de 29.17% abaixo do esperado.",
+      "acaoSugerida": "Avaliar campanhas de reativação e recorrência para esta empresa."
+    },
+    {
+      "tipo": "ticket_baixo",
+      "prioridade": "media",
+      "empresa": "Bode Dú Burger",
+      "mensagem": "Ticket médio de R$ 56.44 está entre os menores da base.",
+      "acaoSugerida": "Avaliar estratégia de combos, upsell e ticket mínimo."
+    }
+  ]
+}
